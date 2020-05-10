@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Client\obj\Debug\Client.pdb

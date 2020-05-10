@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Server\bin\Debug\Server.exe.config
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Server\obj\Debug\Server.exe
+C:\Users\ASUS\Desktop\New folder\NguyenDuyLinh_17046601_KT&TK\Server\obj\Debug\Server.pdb
